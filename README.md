@@ -2,7 +2,11 @@
 
 A simple sensor PCB to measure the level of water capacitively.
 
-<video autoplay muted controls loop src="video/teaser.mp4"></video>
+<video autoplay muted controls loop>
+  <source src="video/teaser.mp4" type="video/mp4" />
+</video>
+
+https://github.com/749/Water-Level-Meter/raw/refs/heads/main/video/teaser.mp4
 
 The sensor is capable of measuring the depth it is inserted into the water with sub-millimeter precision.
 
